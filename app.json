@@ -8,6 +8,11 @@
     }
   ],
   "env": {
+      "test": {
+      "scripts": {
+        "test": "nose test"
+      }
+    }
   },
   "formation": {
     "web": {
